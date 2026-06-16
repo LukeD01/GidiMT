@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+.idea/
+*.DS_Store
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Publish output
+**/publish/
+**/PublishProfiles/
+
+# Logs
+*.log
